@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1731212803 source:c:\users\55139\desktop\projetos\hortifruti\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
